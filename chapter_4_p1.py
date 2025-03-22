@@ -1,0 +1,12 @@
+a=[]
+fruits1=input("enter fruit name")
+a.append(fruits1)
+fruits2=input("enter fruit name")
+a.append(fruits2)
+fruits3=input("enter fruit name")
+a.append(fruits3)
+fruits4=input("enter fruit name")
+a.append(fruits4)
+fruits5=input("enter fruit name")
+a.append(fruits5)
+print(a)
